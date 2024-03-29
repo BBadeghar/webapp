@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> Basheer Ahmed Badeghar Azure DevOps Engineer </h1>
+<h2> This is the pipeline created for continues integration from github to azure devops </h2>
+<h2> Pipeline is success full and we can see the output result on web. Next task is to create continues deployment. Release pipeline </h2>
