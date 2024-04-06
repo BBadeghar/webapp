@@ -28,4 +28,5 @@ steps:
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'warfilecopyfrompipelinetoartifact'
-    publishLocation: 'Container'
+    publishLocation: 'FilePath'
+    TargetPath: '/basheer'
